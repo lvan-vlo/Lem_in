@@ -52,3 +52,5 @@ EG: ./generator --big > map.txt
 
 
 More information on the project can be found in the PDF.
+
+Project was made in collaboration with github.com/sandriches
